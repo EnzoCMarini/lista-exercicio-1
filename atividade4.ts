@@ -15,9 +15,6 @@ let meioN: number = 0;
 let menorN: number = 0;
 
 
-
-
-
 if (numeroA > numeroB && numeroA > numeroB){
     maiorN = numeroA;
     if (numeroB > numeroC){
